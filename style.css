@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: aqua;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 20px;
+}
+main {
+    background-color: bisque;
+    margin: 20px 20px 0 20px;
+    padding: 20px;
+    font-size: 1.2rem;
+    color: blue;
+    font-weight: 700;
+    text-align: justify;
+}
